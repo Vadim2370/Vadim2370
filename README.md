@@ -30,6 +30,9 @@
   
  ### Моя статистика
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim2370)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+ #### Мои контакты
+ [<img align="left" alt="Вадим Шадрин | telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][https://t.me/stdem11]
 <!--
 **Vadim2370/Vadim2370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
