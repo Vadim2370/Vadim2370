@@ -27,6 +27,9 @@
  - [Art gallery](https://github.com/Vadim2370/art-gallery)
  - [Movies Explorer](https://github.com/Vadim2370/movies-explorer-frontend)
  - [Mesto](https://github.com/Vadim2370/react-mesto-api-full)
+  
+ ### Моя статистика
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vadim2370)](https://github.com/anuraghazra/github-readme-stats) 
 <!--
 **Vadim2370/Vadim2370** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
