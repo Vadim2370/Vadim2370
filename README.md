@@ -36,4 +36,6 @@
  [email]: mailto:stdem11@yandex.ru
  [<img align="left" alt="Вадим Шадрин | telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
  [<img align="left" alt="Вадим Шадрин | telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
+  
+ ![](https://komarev.com/ghpvc/?username=Vadim2370&style=flat-square&color=bluegreen)
 
