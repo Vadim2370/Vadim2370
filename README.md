@@ -20,7 +20,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<div>
+</div>
   
  ### Мои проекты
   
@@ -36,6 +36,6 @@
  [email]: mailto:stdem11@yandex.ru
  [<img align="left" alt="Вадим Шадрин | telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
  [<img align="left" alt="Вадим Шадрин | telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/mail-dot-ru.svg" />][email]
-  
- ####![](https://komarev.com/ghpvc/?username=Vadim2370&style=flat-square&color=green)
-
+<div>
+ ![](https://komarev.com/ghpvc/?username=Vadim2370&style=flat-square&color=green)
+</div>
